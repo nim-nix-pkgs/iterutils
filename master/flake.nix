@@ -11,6 +11,7 @@
   inputs.src-iterutils-master.ref   = "refs/heads/master";
   inputs.src-iterutils-master.owner = "def-";
   inputs.src-iterutils-master.repo  = "iterutils";
+  inputs.src-iterutils-master.dir   = "";
   inputs.src-iterutils-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
