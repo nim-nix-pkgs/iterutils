@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/def-/iterutils",
   "refs": [
-    "fatal: unable to access 'https://github.com/def-/iterutils/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/def-/iterutils/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream",
     ""
   ],
   "heads": []
