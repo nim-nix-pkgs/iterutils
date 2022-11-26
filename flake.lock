@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668775879,
-        "narHash": "sha256-NRlgvZVXUCtH2xZ0eD92Ae9wrgBO0SMm95WMqqvg/Mc=",
+        "lastModified": 1669431154,
+        "narHash": "sha256-4S/GXHOk4uniGs8l5YU1ChfI051h0ci4icfp2bSH8Kc=",
         "owner": "nim-nix-pkgs",
         "repo": "iterutils",
-        "rev": "14349620a43f1bf833f08b3b0d585bc5ad8dccf4",
+        "rev": "a45ddc2c54c8ac24b2ba9e0b8ee4817fa62781af",
         "type": "github"
       },
       "original": {
